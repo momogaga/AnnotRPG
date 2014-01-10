@@ -1,5 +1,5 @@
 package annot;
 
 public enum TypeItem {
-	Arme, Armure, Potion;
+	Arme, Armure, Potion, Poison;
 }
