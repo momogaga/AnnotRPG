@@ -11,4 +11,6 @@ public @interface Item {
 	String nom();
 
 	TypeItem type();
+	
+	String classe();
 }
